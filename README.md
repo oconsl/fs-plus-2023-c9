@@ -8,4 +8,4 @@
 - Realizar una **Pull Request** (**PR**) en el repositorio principal.
 - En la descripción de la PR indicar cuales pasos de todo el proceso recordabas de la clase, y cuales tuviste que verlos nuevamente.
 
-"Esto cambio es una sugerencia" 
+"Este cambio es una sugerencia" 
