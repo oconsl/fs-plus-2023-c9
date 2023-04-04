@@ -1,5 +1,3 @@
-### Nombre y apellido
+### Facundo BURGOS
 
 > Respuesta aquí
-
-//FACUNDO BURGOS
